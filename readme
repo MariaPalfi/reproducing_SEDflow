@@ -4,11 +4,4 @@
 4. training_data.ipynb -- applies relativistic noise model
 5. anpe.ipynb -- trains anpe
 6. nsa.ipynb -- applies ANPE on the NSA catalog
-7. compile_nsa_sedflow -- compiles NSA catalog, calculate derived quantities
-
-Figures and tests:
-training_data_plot.ipynb -- illustrates training data along with the NSA data
-ntrain_test.ipynb
-nsa_posterior_failures.ipynb -- looks for the cause of failures
-compare_npes.ipynb
-anpe_vs_mcmc.ipynb
+7. compile_nsa_sedflow -- compiles NSA catalog, calculates derived quantities
